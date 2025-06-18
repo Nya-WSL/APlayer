@@ -60,7 +60,7 @@ const ap3 = new APlayer({
     audio: [{
         name: '光るなら',
         artist: 'Goose house',
-        url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+        url: 'http://music.163.com/song/media/outer/url?id=562598065.mp3',
         cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
         lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.lrc',
         theme: '#ebd0c2'
