@@ -1,0 +1,1 @@
+npx node-sass src/css/index.scss dist/APlayer.min.css
